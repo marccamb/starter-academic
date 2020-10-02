@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   
   * Analysing
   * Modelling
-  * Deploying ![alternative text for search engines](image.jpg)
+  * Deploying {{< figure library="true" src="image.jpg" title="A caption" >}}
   """
 
 [[experience]]
