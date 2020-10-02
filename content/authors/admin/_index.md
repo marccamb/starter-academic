@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-I am currently interested about the link between leaf microbiota and drought stress in forest trees. Using the (ORPHEE large scale experiment)[https://sites.google.com/view/orpheeexperiment/home], I am trying to predict drought stress of *Quercus ilex*, *Quercus robur*, *Pinus pinaster* and *Betula pendula* using their leaf bacterial and fungal communities. Those tools could be used to improve biomonitoring of forests.
+I am currently interested about the link between leaf microbiota and drought stress in forest trees. Using the [ORPHEE large scale experiment](https://sites.google.com/view/orpheeexperiment/home), I am trying to predict drought stress of *Quercus ilex*, *Quercus robur*, *Pinus pinaster* and *Betula pendula* using their leaf bacterial and fungal communities. Those tools could be used to improve biomonitoring of forests.
