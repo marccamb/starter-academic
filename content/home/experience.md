@@ -18,27 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Postdoctoral researcher"
+  company = "BioGeCo lab, INRAE, Bordeaux University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Bordeaux, France"
+  date_start = "2019-05-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying {{< figure library="true" src="image.jpg" title="A caption" >}}
+  * blablna
+  * blaba
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "PhD Student"
+  company = "EDB lab, CNRS, Paul Sabatier University"
+  company_url = "https://edb.cnrs.fr/en/"
+  location = "Toulouse, France"
+  date_start = "2015-10-01"
+  date_end = "2018-12-14"
+  description = """Heterogeneity within infections: the case of the vector-borne insect pathogen, *Xenorhabdus nematophila* 
+  
+  In collaboration with the DGIMI lab, INRAE Montpellier University 
+  """
 
 +++
