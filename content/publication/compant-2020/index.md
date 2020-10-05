@@ -35,7 +35,7 @@ projects: []
 publishDate: '2020-10-05T12:41:27.359650Z'
 publication_types:
 - '2'
-abstract: Summary The plant endosphere is colonized by complex microbial communities
+abstract: The plant endosphere is colonized by complex microbial communities
   and microorganisms, which colonize the plant interior at least part of their lifetime
   and are termed endophytes. Their functions range from mutualism to pathogenicity.
   All plant organs and tissues are generally colonized by bacterial endophytes and
