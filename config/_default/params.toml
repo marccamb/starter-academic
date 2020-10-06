@@ -140,7 +140,7 @@ date_format = "Jan 2, 2006"
 time_format = "3:04 PM"
 
 # Address format (en-us, en-gb, de, fr-fr, zh).
-address_format = "en-us"
+address_format = "fr-fr"
 
 ############################
 ## Advanced
@@ -164,7 +164,7 @@ sharing = true
 copyright_license = {enable = false, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
 
 # Highlight the site author (superuser) in author lists? (true/false)
-highlight_superuser = false
+highlight_superuser = true
 
 # Link authors to their profile page? (true/false)
 link_authors = true
