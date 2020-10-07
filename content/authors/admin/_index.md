@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-I am currently interested about the link between leaf microbiota and drought stress in forest trees. Using the [ORPHEE large scale experiment](https://sites.google.com/view/orpheeexperiment/home), I am trying to predict drought stress of *Quercus ilex*, *Quercus robur*, *Pinus pinaster* and *Betula pendula* using their leaf bacterial and fungal communities. Those tools could be used to improve biomonitoring of forests.
+My main interest is the understanding of hosts and microbes interactions. This includes interactions between pathogens and their host, members of the microbiota and their host, but also between pathogens and the microbiota of their host. To those complex links can be added the role of vectors in vector-borne diseases, as well as the impact of environmental conditions. I have been using a combination of lab experiments, field sampling and microbial communities metabarcoding, on insect and plant hosts.
