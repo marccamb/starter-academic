@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 65  # Order that this section will appear.
 
 title = "Projects"
 subtitle = ""
@@ -19,7 +19,7 @@ subtitle = ""
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
+  # filter_default = 0
   
   # [[content.filter_button]]
   #   name = "All"
@@ -61,11 +61,11 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/media/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   image = "photo_disques.jpg"  # Name of image in `static/media/`.
+   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light = true  
+   text_color_light = true  
   
 [advanced]
  # Custom CSS. 
@@ -75,3 +75,10 @@ subtitle = ""
  css_class = ""
 +++
 
+# Next-Generation Biomonitoring of forest health
+
+Un premier projet blablabla
+
+# Heterogeneity with infections
+
+Un deuxième projet blablabla
