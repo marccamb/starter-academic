@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:cambonmarine at gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:cambonmarine<at>gmail<dot>com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/marine_cambon
@@ -74,4 +74,5 @@ user_groups:
 - Visitors
 ---
 
-My main interest is the understanding of hosts and microbes interactions. This includes interactions between pathogens and their host, members of the microbiota and their host, but also between pathogens and the microbiota of their host. To those complex links can be added the role of vectors in vector-borne diseases, as well as the impact of environmental conditions. I have been using a combination of lab experiments, field sampling and microbial communities metabarcoding, on insect and plant hosts.
+My main interest is the understanding of the multiple and complex interactions existing between a host, and its associated microorganisms. Those microorganisms
+can be either pathogens or members of the host microbiota, and interact together and with their host. Those interactions can vary with environmental conditions, and impact the evolution of all partners. I have been using a combination of lab experiments, field sampling and microbial communities metabarcoding, on insect and plant hosts.
