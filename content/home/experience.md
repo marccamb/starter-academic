@@ -20,15 +20,12 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Postdoctoral researcher"
   company = "BioGeCo lab, INRAE, Bordeaux University"
-  company_url = ""
+  company_url = "https://www6.bordeaux-aquitaine.inrae.fr/biogeco/"
   location = "Bordeaux, France"
   date_start = "2019-05-01"
-  date_end = ""
+  date_end = "2019-12-15"
   description = """
-  Responsibilities include:
-  
-  * blablna
-  * blaba
+  Leaf microbiota as a bioindicator of drought stress in trees: toward next-generation biomonitoring of forest ecosystems.
   """
 
 [[experience]]
@@ -38,7 +35,7 @@ date_format = "Jan 2006"
   location = "Toulouse, France"
   date_start = "2015-10-01"
   date_end = "2018-12-14"
-  description = """Heterogeneity within infections: the case of the vector-borne insect pathogen, *Xenorhabdus nematophila* 
+  description = """Heterogeneity within infections: the case of the vector-borne insect pathogen, *Xenorhabdus nematophila*. 
   
   In collaboration with the DGIMI lab, INRAE Montpellier University 
   """
