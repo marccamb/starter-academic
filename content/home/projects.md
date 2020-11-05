@@ -77,8 +77,13 @@ subtitle = ""
 
 # Next-Generation Biomonitoring of forest health
 
-Un premier projet blablabla
+This project aims at finding bioindicators of tree drought stress using environmental DNA. We investigated the potential signature of tree water stress in leaf microbiota using metabarcoding identification.
+We then used machine learning techniques to predict tree water stress from their leaf microbiota composition. This project is part of the [ANR project NGB](https://anr.fr/Projet-ANR-17-CE32-0011).
+* Head of the project: David Bohan
+* Postdoc advisor: Corinne Vacher
 
-# Heterogeneity with infections
 
-Un deuxième projet blablabla
+# Heterogeneity within infections
+
+This project adresses multiple sources of heterogeneity during a pathogenic infection. We first investigated within-host evolution of an insect pathogen (heterogeneity in the pathogen population) as well as interactions between the pathogen and the microbiota of its host (heterogeneity in the total bacterial population).
+* PhD supervisors: Jean-Baptiste Ferdy and Sophie Gaudriault
