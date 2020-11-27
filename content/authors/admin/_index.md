@@ -74,5 +74,4 @@ user_groups:
 - Visitors
 ---
 
-My main interest is the understanding of the multiple and complex interactions existing between a host, and its associated microorganisms. Those microorganisms
-can be either pathogens or members of the host microbiota, and interact together and with their host. Those interactions can vary with environmental conditions, and impact the evolution of all partners. I have been using a combination of lab experiments, field sampling and microbial community metabarcoding, on insect and plant hosts.
+My main interest is the understanding of the multiple and complex interactions existing between a host, and its associated microorganisms. These microorganisms can either be pathogens or members of the host microbiota and interact with eachother and with their host. These interactions can vary with environmental conditions, and impact the evolution of all partners. I have been using a combination of lab experiments, field sampling and microbial community metabarcoding, on insect and plant hosts.
