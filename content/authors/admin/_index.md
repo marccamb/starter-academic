@@ -14,7 +14,7 @@ role: Postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Lab. BioGeCo, INRAE, Univ. Bordeaux
+- name: School of Natural Sciences, Bangor Unviversity, Wales, UK
 url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-My main interest is the understanding of the multiple and complex interactions existing between a host, and its associated microorganisms. These microorganisms can either be pathogens or members of the host microbiota and interact with eachother and with their host. These interactions can vary with environmental conditions, and impact the evolution of all partners. I have been using a combination of lab experiments, field sampling and microbial community metabarcoding, on insect and plant hosts.
+My main interest is the understanding of the multiple and complex interactions existing between a host, and its associated microorganisms. These microorganisms can either be pathogens or members of the host microbiota and potentially interact with eachother. Interactions between microorganisms or with the host can vary with environmental conditions, and impact the ecology and evolution of all partners. I have been using a combination of lab experiments, field sampling and microbial community single gene profiling, on insect and plant hosts.

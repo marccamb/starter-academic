@@ -77,7 +77,7 @@ subtitle = ""
 
 # Next-Generation Biomonitoring of forest health
 
-This project aims at finding bioindicators of tree drought stress using environmental DNA. We investigated the potential signature of tree water stress in leaf microbiota using metabarcoding identification.
+This project aims at finding bioindicators of tree drought stress using environmental DNA. We investigated the potential signature of tree water stress in leaf microbiota using single gene community profiling.
 We then used machine learning techniques to predict tree water stress from their leaf microbiota composition. This project is part of the [ANR project NGB](https://anr.fr/Projet-ANR-17-CE32-0011).
 * Head of the project: David Bohan
 * Postdoc advisor: Corinne Vacher
