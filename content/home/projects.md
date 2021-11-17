@@ -61,7 +61,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-   image = "photo_disques.jpg"  # Name of image in `static/media/`.
+   image = "project_bg.jpg"  # Name of image in `static/media/`.
    image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -75,15 +75,23 @@ subtitle = ""
  css_class = ""
 +++
 
+# Chemical cues responsible for pathogen virulence in Acute Oak Decline (AOD)
+
+Acute oak decline (AOD) is a complex decline disease affecting mature oak trees, characterised by stem bleeds and inner bark necrosis, eventually leading to tree death. The tissue necrosis observed in trees with AOD is caused by a polymicrobial consortium including the bacterial species *Brenneria goodwinii*. This bacterium is known to express several putative virulence genes, especially in tree hosts which are invaded by the bark-boring beetle *Agrilus biguttatus*. Yet, the nature of this insect-bacteria interaction and its consequences for AOD pathogenesis are still to be unravelled. Using a combination of chemical and molecular microbial ecology methods, we will test the effect of secondary metabolites released by *A. bigutattus* and the tree host on the expression of a set of putative virulence genes in *B. goodwinii*. We hypothesise that the beetle itself, and/or the tree response to the beetle's presence, produce chemical cues triggering *B. goodwinii* proliferation and expression of genes responsible for the establishment of host tissue necrosis.
+
+This work is part of the [BAC-STOP project](https://bacterialplantdiseases.uk/bac-stop/).
+* Head of the project: Sandra Denman
+* Postdoc advisor: James McDonald
+
 # Next-Generation Biomonitoring of forest health
 
 This project aims at finding bioindicators of tree drought stress using environmental DNA. We investigated the potential signature of tree water stress in leaf microbiota using single gene community profiling.
-We then used machine learning techniques to predict tree water stress from their leaf microbiota composition. This project is part of the [ANR project NGB](https://anr.fr/Projet-ANR-17-CE32-0011).
+We then used machine learning techniques to predict tree water stress from their leaf microbiota composition. This work is part of the [ANR project NGB](https://anr.fr/Projet-ANR-17-CE32-0011).
 * Head of the project: David Bohan
 * Postdoc advisor: Corinne Vacher
 
 
 # Heterogeneity within infections
 
-This project adresses multiple sources of heterogeneity during a pathogenic infection. We first investigated within-host evolution of an insect pathogen (heterogeneity in the pathogen population) as well as interactions between the pathogen and the microbiota of its host (heterogeneity in the total bacterial population).
+This project addresses multiple sources of heterogeneity during a pathogenic infection. We first investigated within-host evolution of an insect pathogen (heterogeneity in the pathogen population) as well as interactions between the pathogen and the microbiota of its host (heterogeneity in the total bacterial population).
 * PhD supervisors: Jean-Baptiste Ferdy and Sophie Gaudriault
