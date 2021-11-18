@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-12-17"
   date_end = ""
   description = """
-  Understanding Acute Oak Decline in the UK: roles of oak microbiome and environment, interactions between bacterial pathogens and the the two-spotted oak buprestid.
+  Understanding Acute Oak Decline in the UK: the role of oak microbiome, environment, and interactions between bacterial pathogens and the the two-spotted oak buprestid.
   """
   
 [[experience]]
