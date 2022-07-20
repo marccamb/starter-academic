@@ -12,7 +12,7 @@ authors:
 - Kevin Bethune
 - David A Bohan
 - Christophe Boury
-- Marine C. Cambon
+- admin
 - Elsa Canard
 - Emilie Chancerel
 - Julien Chiquet

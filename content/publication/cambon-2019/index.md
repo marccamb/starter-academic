@@ -6,7 +6,7 @@ title: 'Selection of bacterial mutants in late infections: when vector transmiss
 subtitle: ''
 summary: ''
 authors:
-- Marine C. Cambon*
+- admin
 - Nathalie Parthuisot*
 - Sylvie Pagès
 - Anne Lanois

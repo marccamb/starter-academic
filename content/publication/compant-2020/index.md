@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Stéphane Compant
-- Marine C. Cambon
+- admin
 - Corinne Vacher
 - Birgit Mitter
 - Abdul Samad

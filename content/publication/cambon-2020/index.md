@@ -6,7 +6,7 @@ title: Bacterial community profile after the lethal infection of Steinernema-Xen
 subtitle: ''
 summary: ''
 authors:
-- Marine C. Cambon
+- admin
 - Pierre Lafont
 - Marie Frayssinet
 - Anne Lanois

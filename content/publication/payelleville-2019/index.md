@@ -9,7 +9,7 @@ authors:
 - Dana Blackburn
 - Anne Lannois
 - Sylvie Pagès
-- Marine C. Cambon
+- admin
 - Nadège Ginibre
 - David J Clarke
 - Alain Givaudan
