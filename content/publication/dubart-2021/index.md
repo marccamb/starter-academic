@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Maxime Dubart
-- Alonso Pascal
+- Pascal Alonso 
 - Didac Barroso-Bergada
 - Nathalie Becker
 - Kevin Bethune
