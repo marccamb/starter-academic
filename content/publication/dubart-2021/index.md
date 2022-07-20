@@ -17,22 +17,7 @@ authors:
 - Emilie Chancerel
 - Julien Chiquet
 - Patrice David
-- Natasha de Manincor
-- Sophie Donnet
-- Anne Duputié
-- Benoit Facon
-- Erwan Guichoux
-- Tâm Le Minh
-- Sebastián Ortiz-Martínez
-- Lucie Piouceau
-- Ambre Sacco-Martret de Préville
-- Manuel Plantegenest
-- Celine Poux
-- Virginie Ravignné
-- Stéphane Robin
-- Marine Trillat
-- Corinne Vacher
-- Christian Vernière
+- et. al
 - François Massol
 tags: []
 categories: []
