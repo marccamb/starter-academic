@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral researcher
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: School of Natural Sciences, Bangor Unviversity, Wales, UK
+- name: School of Biosciences, IMI, BIFoR, University of Birmingham, UK
 url: ""
 
 # Short bio (displayed in user profile at end of posts)
