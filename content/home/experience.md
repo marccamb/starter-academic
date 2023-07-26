@@ -18,12 +18,23 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Research Fellow in Microbial Ecology"
+  company = "University of Birmingham, James McDonald's lab"
+  company_url = "https://www.birmingham.ac.uk/schools/biosciences/staff/profile.aspx?ReferenceId=199042&Name=professor-james-mcdonald"
+  location = "Birmingham, UK"
+  date_start = "2023-04-01"
+  date_end = ""
+  description = """
+  Oak SynCom project: Understanding pathogen-microbiota interactions in tree disease using synthetic communities of the oak microbiota
+  """
+
+[[experience]]
   title = "Postdoctoral researcher Microbial Ecology and Forest Pathology"
   company = "Bangor University, James McDonald's lab"
   company_url = "https://http://www.jamesmcdonaldlab.com/"
   location = "Bangor, Wales, UK"
   date_start = "2020-12-17"
-  date_end = ""
+  date_end = "2023-03-15"
   description = """
   Understanding Acute Oak Decline in the UK: the role of oak microbiome, environment, and interactions between bacterial pathogens and the the two-spotted oak buprestid.
   """
